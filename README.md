@@ -1,14 +1,6 @@
-Drop-down with option to create a new repository
-Under "Repository name", type a repository name that matches your GitHub username. For example, if your username is "octocat", the repository name must be "octocat".
-
-Optionally, in the "Description" field, type a description of your repository. For example, "My personal repository."
-
-Select Public.
-
-Select Initialize this repository with a README.
-
-Click Create repository.
-
-Above the right sidebar, click Edit README.
-
-The generated README file is pre-populated with a template to give you some inspiration for your profile README.
+My name is Patrick John Dama, Im taking BSIT3 at Central Philippine University and I am An Student Athlete
+1. I love to Play Online Games
+2. I love to Play Volleyball
+3. My favorite color is Red
+4. I love to Cook
+5. I my faourite meal to cook is Sisig.
