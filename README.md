@@ -1,4 +1,4 @@
-My name is Patrick John Dama, Im taking BSIT3 at Central Philippine University and I am Student Athlete
+My name is Patrick John Dama, Im taking BSIT3 at Central Philippine University and I am a Student Athlete
 1. I love to Play Online Games
 2. I love to Play Volleyball
 3. My favorite color is Red
